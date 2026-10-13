@@ -14,4 +14,3 @@ This page describes how to find your unique User ID. Any of these methods work, 
 ## Method 2
 1. Click the User Settings button<br>![User Settings](/assets/images/user-settings.png)
 2. In the *Appearance* tab, check the *Developer Mode* option<br>![Developer Mode](/assets/images/developer-mode.png)
-3. Right-click your username in a member list, and select *Copy ID*<br>![Copy ID](/assets/images/devmode-copy-id.png)
